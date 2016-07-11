@@ -1,0 +1,20 @@
+R0 	voiture volante
+R1 	téléphones implantés
+R10 	Kim Dotcom mega
+R11 	android malware
+R12 	Google Glass
+R13 	Bon Plan smartphone
+R14 	smartphone vie privée
+R15 	Firefox OS
+R16 	star wars jedi
+R17 	hadopi streaming
+R18 	comparatif smartphones
+R19 	tablettes android
+R2 	mozilla vs explorer
+R3 	téléchargement illégal
+R4 	virus boite mail
+R5 	free mobile
+R6 	Ecriture en chiffre romain
+R7 	humour
+R8 	smartphone samsung
+R9 	telechargement

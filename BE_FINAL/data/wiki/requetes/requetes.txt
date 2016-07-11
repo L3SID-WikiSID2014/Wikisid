@@ -1,0 +1,10 @@
+R1	Effondrement d'un immeuble
+R2	les fuites d'eau
+R3	le projet energetique
+R4	manifestation SIDA
+R5	accident de voiture
+R6	attentat de Boston 
+R7	tremblement de terre
+R8	soldat français
+R9	nouveau président russe
+R10	resultat de ligue 1

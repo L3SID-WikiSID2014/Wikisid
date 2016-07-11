@@ -1,0 +1,101 @@
+body {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	min-height: 100%;
+}
+
+
+#container {
+	width: 100%;
+	margin: 0 auto;
+	text-align: left;
+
+}
+
+#header {
+	height:180px;
+	background-color: white;
+}
+#content {
+	margin-left: 15%;
+	margin-right: 15%;
+	background-color: white;
+}
+#footer {
+	
+	background-color: white;
+	text-align: right;
+	margin-right:5px;
+	position:fixed;
+	bottom:2px;
+	right:0;
+	height:20px;
+	width:100%;
+
+}
+ 
+#stars > span {
+	display: inline-block;
+	font-size:30px;
+	color: #2784a7;
+}
+#stars:hover > span:before{
+	content:'\2605';
+	position:absolute;
+}
+
+#stars > span:hover ~ span:before{
+	content:'';
+}
+
+th {
+
+	font-size: 17.5px;
+	font-family:cursive;
+	font-weight: bold;
+	color:#187795;
+}
+a {
+	font-size: 15.5px;
+	font-family:verdana;
+	color: green;
+}
+
+#footer a {
+	font-family:verdana;
+	color: black;
+}
+
+#listeEtoile {
+width: 88px;
+display:inline-block;
+list-style-type: none;
+}
+.listeEtoile ul {
+	display:inline-block;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+
+.listeEtoile ul li {
+	display:inline-block;
+	width: 16px;
+	text-align: left;
+	list-style-type: none;
+}
+h1 {
+	text-align: center;
+	color: #CE0404;
+	font-size:30px;
+	font-family:cursive;
+}
+
+h2{
+	text-align: left;
+	color: black;
+	font-size:18px;
+	font-family:verdana;
+}
